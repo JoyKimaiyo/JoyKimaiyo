@@ -1,15 +1,49 @@
+### 👋 Hi there! I'm **Joy (Joyce)**  
+A passionate **Data Analyst** who loves turning raw data into actionable insights.
+
 ![Welcome Animation](https://your-gif-url.com/welcome.gif)
 
-#### Hello! 👋 I'm Joy(Joyce), a data analyst proficient in data streaming, data cleaning, exploratory analysis, data visualization, machine learning, database management, and automation.
+---
 
+### 🔧 **Tech Stack & Tools**
 
-#### Tools
-I can stream data using Kafka, clean, analyze, extract, and visualize insights from data using  Python, 📊 SQL, 📑 Excel, and 📈 Power BI, build data apps using Streamlit and automate tasks using 🐚 Bash shell scripting and airflow.
+**Languages & Scripting**  
+🐍 Python | 🐚 Bash | 📑 Excel
 
-🖥️ Linux | 📑 Excel | 📈 Power BI | 🐚 Bash | Python | 🗃️ SQL (Postgresql & MySQL)
+**Databases**  
+🗃️ MySQL | 🐘 PostgreSQL
 
-I use Python packages Keras, sci-kit-learn, Pandas, Streamlit, Plotly, NumPy, and Plotly to build machine learning models and bring data science projects to life.
+**Libraries & Frameworks**  
+📊 Pandas | 📉 NumPy | 📌 Plotly | 🎯 scikit-learn | 🧠 Keras | 🌐 Streamlit  
 
-~ Check out my GitHub repositories for exciting data analysis projects and code samples. 
+**Visualization & BI**  
+📈 Power BI | 📊 Matplotlib | 🧩 Seaborn  |🌐 Streamlit 
 
-:sunflower: I like reading and writing; check out my Medium page [@joykimaiyo](https://medium.com/@joy.kimaiyo).
+**Workflow & Automation**  
+🌪️ Apache Airflow | 📡 Apache Kafka  
+
+**OS & Platforms**  
+🖥️ Linux | 🐳 Docker
+
+---
+
+### 📌 **What I Do**
+
+- 🔍 Data Cleaning & Exploratory Analysis  
+- 📈 Data Visualization & Reporting  
+- 🧠 Predictive Modeling & Machine Learning  
+- 🔄 Automation & Workflow Orchestration  
+- ⚙️ Database Management & Optimization  
+- 🌐 Real-time Data Streaming  
+
+---
+
+### 🌟 **Let's Connect**
+
+📂 Check out my projects on [GitHub](https://github.com/your-github)  
+📝 Read my thoughts & tutorials on [Medium @joykimaiyo](https://medium.com/@joy.kimaiyo)
+
+---
+
+> _"Bringing clarity to chaos through data."_ ✨
+
